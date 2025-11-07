@@ -1,0 +1,13 @@
+streamlit
+pandas
+scikit-learn
+PyPDF2
+python-docx
+google-generativeai
+PyMuPDF
+Pillow
+pdfplumber
+spacy
+plotly
+numpy
+joblib
